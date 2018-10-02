@@ -1,0 +1,9 @@
+C:\Users\msft_\source\repos\ColorBox\ColorBox\bin\Debug\ColorBox.exe
+C:\Users\msft_\source\repos\ColorBox\ColorBox\bin\Debug\ColorBox.pdb
+C:\Users\msft_\source\repos\ColorBox\ColorBox\obj\Debug\ColorBox.csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\ColorBox\ColorBox\obj\Debug\ColorBox.Form1.resources
+C:\Users\msft_\source\repos\ColorBox\ColorBox\obj\Debug\ColorBox.Properties.Resources.resources
+C:\Users\msft_\source\repos\ColorBox\ColorBox\obj\Debug\ColorBox.csproj.GenerateResource.cache
+C:\Users\msft_\source\repos\ColorBox\ColorBox\obj\Debug\ColorBox.csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\ColorBox\ColorBox\obj\Debug\ColorBox.exe
+C:\Users\msft_\source\repos\ColorBox\ColorBox\obj\Debug\ColorBox.pdb
